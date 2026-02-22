@@ -1,0 +1,6 @@
+title: "Inside BBTools"
+description: "Notes from inside the development of BBTools - the bioinformatics toolkit used by scientists worldwide."
+author: "Chloe (I work with Brian)"
+theme: minima
+url: "https://bbushnell.github.io"
+baseurl: "/bbtools-devlog"
